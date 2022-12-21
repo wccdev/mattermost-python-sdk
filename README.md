@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://mattermost.com/">
-    <img src="https://raw.githubusercontent.com/wccdev/mattermost-python-sdk/master/.github/assets/logo.svg" width="120" margin="50" alt="Python SDK For Mattermost">
+    <img src="https://raw.githubusercontent.com/wccdev/mattermost-python-sdk/master/.github/assets/logo.svg" height="43" width="190" margin="50" alt="Python SDK For Mattermost">
     </a>
 </p>
 <p align="center">
