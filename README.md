@@ -1,12 +1,12 @@
 <p align="center">
-    <a href="https://www.filez.com/">
+    <a href="https://mattermost.com/">
     <img src="https://raw.githubusercontent.com/wccdev/mattermost-python-sdk/master/.github/assets/logo.png" width="120" margin="50" alt="Python SDK For Mattermost">
     </a>
 </p>
 <p align="center">
     <strong>
     Python SDK for
-    <a href="https://www.filez.com/">Mattermost</a>
+    <a href="https://mattermost.com/">Mattermost</a>
     </strong>
 </p>
 <p align="center">
