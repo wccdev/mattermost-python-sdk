@@ -1,1 +1,2 @@
 ::: mattermost
+::: mattermost.mattermost
